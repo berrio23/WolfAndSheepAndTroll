@@ -1,0 +1,11 @@
+{ "manifestFiles" : [ "WolfAndSheep.wasm",
+"WolfAndSheep.html",
+"game.unx",
+"WolfAndSheep.data",
+"playing.mov",
+"WolfAndSheep.js" ], "manifestFilesMD5" : [ "32929cfa6953328ceb2a1498b66ddd0a",
+"190d908b0bfd3d92776047156528d718",
+"d70e0ecbbad91e85f0a3bd93f76a826b",
+"1d60f4b0c389695c235fb0e4f492ef57",
+"ca3621e4c06e413c1d2a960e551ba3d6",
+"033bb6a908caf6e38f53fdb243398a2a" ], "mainJS" : "WolfAndSheep.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.11.0.227", "yyc": true}}
